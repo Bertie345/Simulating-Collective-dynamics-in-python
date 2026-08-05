@@ -1,2 +1,6 @@
 # Simulating-Collective-dynamics-in-python
-Here I simulate Cucker-smale model in python using pygame. I made a few adjustments so that the Birds move at a higher frame rate aswell adjusting the equation for how they change direction in order to make a smoother process.
+This project is an attempt to simulate collective motion akin to flocks, herds, or schools of fish by implementing the Vicsek model (1995).
+
+Coded in Python using Pygame.
+
+I made several adjustments to the model for the convenience of the code and for the sake of smoothing the motion.
